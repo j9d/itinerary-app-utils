@@ -1,2 +1,2 @@
 # CloudA3Lambda
-Cloud A3 repository that will be deployed on Lambda
+Repository containing files for lambda functions as part of Cloud Computing A3.
