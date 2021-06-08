@@ -1,0 +1,912 @@
+{
+  "acceptsGround": false,
+  "city": "Tokyo",
+  "continent": "Asia",
+  "country": "Japan"
+},
+{
+  "acceptsGround": true,
+  "city": "Osaka",
+  "continent": "Asia",
+  "country": "Japan"
+},
+{
+  "acceptsGround": true,
+  "city": "Sapporo",
+  "continent": "Asia",
+  "country": "Japan"
+},
+{
+  "acceptsGround": true,
+  "city": "Fukuoka",
+  "continent": "Asia",
+  "country": "Japan"
+},
+{
+  "acceptsGround": true,
+  "city": "Kyoto",
+  "continent": "Asia",
+  "country": "Japan"
+},
+{
+  "acceptsGround": true,
+  "city": "Beijing",
+  "continent": "Asia",
+  "country": "China"
+},
+{
+  "acceptsGround": true,
+  "city": "Shanghai",
+  "continent": "Asia",
+  "country": "China"
+},
+{
+  "acceptsGround": true,
+  "city": "Dongguan",
+  "continent": "Asia",
+  "country": "China"
+},
+{
+  "acceptsGround": true,
+  "city": "Shenzhen",
+  "continent": "Asia",
+  "country": "China"
+},
+{
+  "acceptsGround": true,
+  "city": "Guangzhou",
+  "continent": "Asia",
+  "country": "China"
+},
+{
+  "acceptsGround": true,
+  "city": "Tianjin",
+  "continent": "Asia",
+  "country": "China"
+},
+{
+  "acceptsGround": true,
+  "city": "Xiamen",
+  "continent": "Asia",
+  "country": "China"
+},
+{
+  "acceptsGround": true,
+  "city": "New Delhi",
+  "continent": "Asia",
+  "country": "India"
+},
+{
+  "acceptsGround": true,
+  "city": "Mumbai",
+  "continent": "Asia",
+  "country": "India"
+},
+{
+  "acceptsGround": true,
+  "city": "Kolkata",
+  "continent": "Asia",
+  "country": "India"
+},
+{
+  "acceptsGround": true,
+  "city": "Madurai",
+  "continent": "Asia",
+  "country": "India"
+},
+{
+  "acceptsGround": true,
+  "city": "Chennai",
+  "continent": "Asia",
+  "country": "India"
+},
+{
+  "acceptsGround": false,
+  "city": "Melbourne",
+  "continent": "Oceania",
+  "country": "Australia"
+},
+{
+  "acceptsGround": false,
+  "city": "Sydney",
+  "continent": "Oceania",
+  "country": "Australia"
+},
+{
+  "acceptsGround": false,
+  "city": "Adelaide",
+  "continent": "Oceania",
+  "country": "Australia"
+},
+{
+  "acceptsGround": false,
+  "city": "Perth",
+  "continent": "Oceania",
+  "country": "Australia"
+},
+{
+  "acceptsGround": false,
+  "city": "Brisbane",
+  "continent": "Oceania",
+  "country": "Australia"
+},
+{
+  "acceptsGround": false,
+  "city": "Darwin",
+  "continent": "Oceania",
+  "country": "Australia"
+},
+{
+  "acceptsGround": false,
+  "city": "Canberra",
+  "continent": "Oceania",
+  "country": "Australia"
+},
+{
+  "acceptsGround": false,
+  "city": "Auckland",
+  "continent": "Oceania",
+  "country": "New Zealand"
+},
+{
+  "acceptsGround": false,
+  "city": "Wellington",
+  "continent": "Oceania",
+  "country": "New Zealand"
+},
+{
+  "acceptsGround": false,
+  "city": "Queenstown",
+  "continent": "Oceania",
+  "country": "New Zealand"
+},
+{
+  "acceptsGround": true,
+  "city": "Bangkok",
+  "continent": "Asia",
+  "country": "Thailand"
+},
+{
+  "acceptsGround": true,
+  "city": "Koh Samui",
+  "continent": "Asia",
+  "country": "Thailand"
+},
+{
+  "acceptsGround": true,
+  "city": "Phuket",
+  "continent": "Asia",
+  "country": "Thailand"
+},
+{
+  "acceptsGround": true,
+  "city": "Hanoi",
+  "continent": "Asia",
+  "country": "Vietnam"
+},
+{
+  "acceptsGround": true,
+  "city": "Haiphong",
+  "continent": "Asia",
+  "country": "Vietnam"
+},
+{
+  "acceptsGround": true,
+  "city": "Ho Chi Minh City",
+  "continent": "Asia",
+  "country": "Vietnam"
+},
+{
+  "acceptsGround": true,
+  "city": "Vientiane",
+  "continent": "Asia",
+  "country": "Laos"
+},
+{
+  "acceptsGround": true,
+  "city": "Phnom Penh",
+  "continent": "Asia",
+  "country": "Cambodia"
+},
+{
+  "acceptsGround": true,
+  "city": "Hong Kong",
+  "continent": "Asia",
+  "country": "China"
+},
+{
+  "acceptsGround": false,
+  "city": "Seoul",
+  "continent": "Asia",
+  "country": "South Korea"
+},
+{
+  "acceptsGround": false,
+  "city": "Gwangju",
+  "continent": "Asia",
+  "country": "South Korea"
+},
+{
+  "acceptsGround": false,
+  "city": "Incheon",
+  "continent": "Asia",
+  "country": "South Korea"
+},
+{
+  "acceptsGround": false,
+  "city": "Daegu",
+  "continent": "Asia",
+  "country": "South Korea"
+},
+{
+  "acceptsGround": true,
+  "city": "Rome",
+  "continent": "Europe",
+  "country": "Italy"
+},
+{
+  "acceptsGround": true,
+  "city": "Naples",
+  "continent": "Europe",
+  "country": "Italy"
+},
+{
+  "acceptsGround": true,
+  "city": "Venice",
+  "continent": "Europe",
+  "country": "Italy"
+},
+{
+  "acceptsGround": true,
+  "city": "Milan",
+  "continent": "Europe",
+  "country": "Italy"
+},
+{
+  "acceptsGround": true,
+  "city": "Florence",
+  "continent": "Europe",
+  "country": "Italy"
+},
+{
+  "acceptsGround": true,
+  "city": "Madrid",
+  "continent": "Europe",
+  "country": "Spain"
+},
+{
+  "acceptsGround": true,
+  "city": "Barcelona",
+  "continent": "Europe",
+  "country": "Spain"
+},
+{
+  "acceptsGround": true,
+  "city": "Lisbon",
+  "continent": "Europe",
+  "country": "Portugal"
+},
+{
+  "acceptsGround": true,
+  "city": "Seville",
+  "continent": "Europe",
+  "country": "Spain"
+},
+{
+  "acceptsGround": true,
+  "city": "Nice",
+  "continent": "Europe",
+  "country": "France"
+},
+{
+  "acceptsGround": true,
+  "city": "Lyon",
+  "continent": "Europe",
+  "country": "France"
+},
+{
+  "acceptsGround": true,
+  "city": "Bern",
+  "continent": "Europe",
+  "country": "Switzerland"
+},
+{
+  "acceptsGround": true,
+  "city": "Zurich",
+  "continent": "Europe",
+  "country": "Switzerland"
+},
+{
+  "acceptsGround": true,
+  "city": "Frankfurt",
+  "continent": "Europe",
+  "country": "Germany"
+},
+{
+  "acceptsGround": true,
+  "city": "Munich",
+  "continent": "Europe",
+  "country": "Germany"
+},
+{
+  "acceptsGround": true,
+  "city": "Hamburg",
+  "continent": "Europe",
+  "country": "Germany"
+},
+{
+  "acceptsGround": true,
+  "city": "Dresden",
+  "continent": "Europe",
+  "country": "Germany"
+},
+{
+  "acceptsGround": true,
+  "city": "Cologne",
+  "continent": "Europe",
+  "country": "Germany"
+},
+{
+  "acceptsGround": true,
+  "city": "Brussels",
+  "continent": "Europe",
+  "country": "Belgium"
+},
+{
+  "acceptsGround": true,
+  "city": "Antwerp",
+  "continent": "Europe",
+  "country": "Belgium"
+},
+{
+  "acceptsGround": true,
+  "city": "Amsterdam",
+  "continent": "Europe",
+  "country": "Netherlands"
+},
+{
+  "acceptsGround": true,
+  "city": "London",
+  "continent": "Europe",
+  "country": "United Kingdom"
+},
+{
+  "acceptsGround": true,
+  "city": "Manchester",
+  "continent": "Europe",
+  "country": "United Kingdom"
+},
+{
+  "acceptsGround": true,
+  "city": "Glasgow",
+  "continent": "Europe",
+  "country": "United Kingdom"
+},
+{
+  "acceptsGround": true,
+  "city": "Edinburgh",
+  "continent": "Europe",
+  "country": "United Kingdom"
+},
+{
+  "acceptsGround": true,
+  "city": "Dublin",
+  "continent": "Europe",
+  "country": "Ireland"
+},
+{
+  "acceptsGround": true,
+  "city": "Copenhagen",
+  "continent": "Europe",
+  "country": "Denmark"
+},
+{
+  "acceptsGround": true,
+  "city": "Stockholm",
+  "continent": "Europe",
+  "country": "Sweden"
+},
+{
+  "acceptsGround": true,
+  "city": "Gothenburg",
+  "continent": "Europe",
+  "country": "Sweden"
+},
+{
+  "acceptsGround": true,
+  "city": "Oslo",
+  "continent": "Europe",
+  "country": "Norway"
+},
+{
+  "acceptsGround": true,
+  "city": "Bergen",
+  "continent": "Europe",
+  "country": "Norway"
+},
+{
+  "acceptsGround": true,
+  "city": "Helsinki",
+  "continent": "Europe",
+  "country": "Finland"
+},
+{
+  "acceptsGround": true,
+  "city": "Turku",
+  "continent": "Europe",
+  "country": "Finland"
+},
+{
+  "acceptsGround": true,
+  "city": "Tampere",
+  "continent": "Europe",
+  "country": "Finland"
+},
+{
+  "acceptsGround": true,
+  "city": "Tallinn",
+  "continent": "Europe",
+  "country": "Estonia"
+},
+{
+  "acceptsGround": true,
+  "city": "Riga",
+  "continent": "Europe",
+  "country": "Latvia"
+},
+{
+  "acceptsGround": true,
+  "city": "Vilnius",
+  "continent": "Europe",
+  "country": "Lithuania"
+},
+{
+  "acceptsGround": true,
+  "city": "Minsk",
+  "continent": "Europe",
+  "country": "Belarus"
+},
+{
+  "acceptsGround": true,
+  "city": "Warsaw",
+  "continent": "Europe",
+  "country": "Poland"
+},
+{
+  "acceptsGround": true,
+  "city": "Katowice",
+  "continent": "Europe",
+  "country": "Poland"
+},
+{
+  "acceptsGround": true,
+  "city": "Kyiv",
+  "continent": "Europe",
+  "country": "Ukraine"
+},
+{
+  "acceptsGround": true,
+  "city": "Bratislavia",
+  "continent": "Europe",
+  "country": "Slovakia"
+},
+{
+  "acceptsGround": true,
+  "city": "Vienna",
+  "continent": "Europe",
+  "country": "Austria"
+},
+{
+  "acceptsGround": true,
+  "city": "Salzburg",
+  "continent": "Europe",
+  "country": "Austria"
+},
+{
+  "acceptsGround": true,
+  "city": "Graz",
+  "continent": "Europe",
+  "country": "Austria"
+},
+{
+  "acceptsGround": true,
+  "city": "Prague",
+  "continent": "Europe",
+  "country": "Czechia"
+},
+{
+  "acceptsGround": true,
+  "city": "Ljubljana",
+  "continent": "Europe",
+  "country": "Slovenia"
+},
+{
+  "acceptsGround": true,
+  "city": "Zagreb",
+  "continent": "Europe",
+  "country": "Croatia"
+},
+{
+  "acceptsGround": true,
+  "city": "Budapest",
+  "continent": "Europe",
+  "country": "Hungary"
+},
+{
+  "acceptsGround": true,
+  "city": "Athens",
+  "continent": "Europe",
+  "country": "Greece"
+},
+{
+  "acceptsGround": true,
+  "city": "Thessaloniki",
+  "continent": "Europe",
+  "country": "Greece"
+},
+{
+  "acceptsGround": false,
+  "city": "Heraklion",
+  "continent": "Europe",
+  "country": "Greece"
+},
+{
+  "acceptsGround": true,
+  "city": "Tirana",
+  "continent": "Europe",
+  "country": "Albania"
+},
+{
+  "acceptsGround": true,
+  "city": "Pristina",
+  "continent": "Europe",
+  "country": "Kosovo"
+},
+{
+  "acceptsGround": true,
+  "city": "Skopje",
+  "continent": "Europe",
+  "country": "North Macedonia"
+},
+{
+  "acceptsGround": true,
+  "city": "Sarajevo",
+  "continent": "Europe",
+  "country": "Bosnia and Herzegovina"
+},
+{
+  "acceptsGround": true,
+  "city": "Belgrade",
+  "continent": "Europe",
+  "country": "Serbia"
+},
+{
+  "acceptsGround": false,
+  "city": "Valletta",
+  "continent": "Europe",
+  "country": "Malta"
+},
+{
+  "acceptsGround": true,
+  "city": "Bucharest",
+  "continent": "Europe",
+  "country": "Romania"
+},
+{
+  "acceptsGround": true,
+  "city": "Cluj-Napoca",
+  "continent": "Europe",
+  "country": "Romania"
+},
+{
+  "acceptsGround": true,
+  "city": "Baku",
+  "continent": "Asia",
+  "country": "Azerbaijan"
+},
+{
+  "acceptsGround": true,
+  "city": "Istanbul",
+  "continent": "Asia",
+  "country": "Turkey"
+},
+{
+  "acceptsGround": true,
+  "city": "Ankara",
+  "continent": "Asia",
+  "country": "Turkey"
+},
+{
+  "acceptsGround": true,
+  "city": "Sofia",
+  "continent": "Europe",
+  "country": "Bulgaria"
+},
+{
+  "acceptsGround": true,
+  "city": "Moscow",
+  "continent": "Europe",
+  "country": "Russia"
+},
+{
+  "acceptsGround": true,
+  "city": "St Petersburg",
+  "continent": "Europe",
+  "country": "Russia"
+},
+{
+  "acceptsGround": false,
+  "city": "Reykjavik",
+  "continent": "Europe",
+  "country": "Iceland"
+},
+{
+  "acceptsGround": false,
+  "city": "Suva",
+  "continent": "Oceania",
+  "country": "Fiji"
+},
+{
+  "acceptsGround": false,
+  "city": "Port Vila",
+  "continent": "Oceania",
+  "country": "Vanuatu"
+},
+{
+  "acceptsGround": false,
+  "city": "Nournea",
+  "continent": "Oceania",
+  "country": "New Caledonia"
+},
+{
+  "acceptsGround": false,
+  "city": "Honolulu",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "New York",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "California",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "Washington",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "Miami",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "Chicago",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "Los Angeles",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "Houston",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "Las Vegas",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "San Diego",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "Seattle",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "San Francisco",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "Philadelphia",
+  "continent": "North America",
+  "country": "United States of America"
+},
+{
+  "acceptsGround": true,
+  "city": "Ottawa",
+  "continent": "North America",
+  "country": "Canada"
+},
+{
+  "acceptsGround": true,
+  "city": "Montreal",
+  "continent": "North America",
+  "country": "Canada"
+},
+{
+  "acceptsGround": true,
+  "city": "Winnipeg",
+  "continent": "North America",
+  "country": "Canada"
+},
+{
+  "acceptsGround": true,
+  "city": "Toronto",
+  "continent": "North America",
+  "country": "Canada"
+},
+{
+  "acceptsGround": true,
+  "city": "Vancouver",
+  "continent": "North America",
+  "country": "Canada"
+},
+{
+  "acceptsGround": true,
+  "city": "Calgary",
+  "continent": "North America",
+  "country": "Canada"
+},
+{
+  "acceptsGround": true,
+  "city": "Edmonton",
+  "continent": "North America",
+  "country": "Canada"
+},
+{
+  "acceptsGround": true,
+  "city": "Mexico City",
+  "continent": "North America",
+  "country": "Mexico"
+},
+{
+  "acceptsGround": true,
+  "city": "Monterrey",
+  "continent": "North America",
+  "country": "Mexico"
+},
+{
+  "acceptsGround": true,
+  "city": "San Jose",
+  "continent": "North America",
+  "country": "Costa Rica"
+},
+{
+  "acceptsGround": false,
+  "city": "Kingston",
+  "continent": "North America",
+  "country": "Jamaica"
+},
+{
+  "acceptsGround": false,
+  "city": "Havana",
+  "continent": "North America",
+  "country": "Cuba"
+},
+{
+  "acceptsGround": false,
+  "city": "Port-au-Prince",
+  "continent": "North America",
+  "country": "Haiti"
+},
+{
+  "acceptsGround": false,
+  "city": "San Juan",
+  "continent": "North America",
+  "country": "Puerto Rico"
+},
+{
+  "acceptsGround": true,
+  "city": "Caracas",
+  "continent": "South America",
+  "country": "Venezuela"
+},
+{
+  "acceptsGround": true,
+  "city": "Bogota",
+  "continent": "South America",
+  "country": "Colombia"
+},
+{
+  "acceptsGround": true,
+  "city": "Quito",
+  "continent": "South America",
+  "country": "Ecuador"
+},
+{
+  "acceptsGround": true,
+  "city": "Lima",
+  "continent": "South America",
+  "country": "Peru"
+},
+{
+  "acceptsGround": true,
+  "city": "Brasilia",
+  "continent": "South America",
+  "country": "Brazil"
+},
+{
+  "acceptsGround": true,
+  "city": "Sao Paulo",
+  "continent": "South America",
+  "country": "Brazil"
+},
+{
+  "acceptsGround": true,
+  "city": "Salvador",
+  "continent": "South America",
+  "country": "Brazil"
+},
+{
+  "acceptsGround": true,
+  "city": "La Paz",
+  "continent": "South America",
+  "country": "Bolivia"
+},
+{
+  "acceptsGround": true,
+  "city": "Santiago",
+  "continent": "South America",
+  "country": "Chile"
+},
+{
+  "acceptsGround": true,
+  "city": "Buenos Aires",
+  "continent": "South America",
+  "country": "Argentina"
+},
+{
+  "acceptsGround": true,
+  "city": "Montevideo",
+  "continent": "South America",
+  "country": "Uruguay"
+},
+{
+  "acceptsGround": true,
+  "city": "Asuncion",
+  "continent": "South America",
+  "country": "Paraguay"
+},
+{
+  "acceptsGround": true,
+  "city": "CITY",
+  "continent": "South America",
+  "country": "COUNTRY"
+},
+{
+  "acceptsGround": true,
+  "city": "CITY",
+  "continent": "CONTINENT",
+  "country": "COUNTRY"
+},
+{
+  "acceptsGround": true,
+  "city": "CITY",
+  "continent": "CONTINENT",
+  "country": "COUNTRY"
+},
