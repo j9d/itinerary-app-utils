@@ -29,35 +29,37 @@ def lambda_handler(event, context):
     db = boto3.resource('dynamodb')
     table = db.Table('users')
     
-    if event['email'].strip() == '':
+    body = json.loads(str(event['body']))
+    
+    if body['email'].strip() == '':
         return {
             'statusCode': 400,
             'body': 'Email required for registration'
         }
         
-    elif event['username'].strip() == '':
+    elif body['username'].strip() == '':
         return {
             'statusCode': 400,
             'body': 'Username required for registration'
         }
         
-    elif event['password'].strip() == '':
+    elif body['password'].strip() == '':
         return {
             'statusCode': 400,
             'body': 'Password required for registration'
         }
         
-    response = email_exists(table, event['email'])
+    response = email_exists(table, body['email'])
     if response != False:
         return {
             'statusCode': 409,
-            'body': 'Email already exists',
-            'conflictingEmail': response['email']
+            'body': 'Email already exists: ' + response['email'],
         }
         
     else:
-        put_item(table, event['email'], event['username'], event['password'])
+        put_item(table, body['email'], body['username'], body['password'])
         return {
             'statusCode': 201,
             'body': 'User created successfully'
         }
+    
