@@ -1,2 +1,2 @@
-# CloudA3Lambda
-Repository containing files for lambda functions as part of Cloud Computing A3.
+# itinerary-app-utils
+A repository with two lambda functions that assists in the operation of [itinerary-app](https://github.com/j9d/itinerary-app). 
